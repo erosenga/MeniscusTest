@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MeniscusTest", "MeniscusTest\MeniscusTest.csproj", "{DE3BCCC2-4303-4DA3-90C2-258E0A0436AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE3BCCC2-4303-4DA3-90C2-258E0A0436AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE3BCCC2-4303-4DA3-90C2-258E0A0436AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE3BCCC2-4303-4DA3-90C2-258E0A0436AF}.Debug|x64.ActiveCfg = Debug|x64
+		{DE3BCCC2-4303-4DA3-90C2-258E0A0436AF}.Debug|x64.Build.0 = Debug|x64
+		{DE3BCCC2-4303-4DA3-90C2-258E0A0436AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE3BCCC2-4303-4DA3-90C2-258E0A0436AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE3BCCC2-4303-4DA3-90C2-258E0A0436AF}.Release|x64.ActiveCfg = Release|x64
+		{DE3BCCC2-4303-4DA3-90C2-258E0A0436AF}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D52041AF-9C14-4655-B9D2-B3E78CC750EA}
+	EndGlobalSection
+EndGlobal
