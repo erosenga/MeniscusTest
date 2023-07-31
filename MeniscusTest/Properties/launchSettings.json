@@ -2,7 +2,7 @@
   "profiles": {
     "MeniscusTest": {
       "commandName": "Project",
-      "commandLineArgs": "d:\\ezra\\run-2022-11-14_05-48-22-PM.mp4 1800 2000",
+      "commandLineArgs": "..\\..\\..\\..\\run-2022-11-14_05-48-22-PM.mp4 1800 2000"
     }
   }
 }

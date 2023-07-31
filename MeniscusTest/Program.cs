@@ -1,5 +1,6 @@
 ﻿using System;
 using MeniscusTracking;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace MyApp // Note: actual namespace depends on the project name.
 {
