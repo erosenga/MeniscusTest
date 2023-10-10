@@ -9,8 +9,106 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="0.bmp" />
+    <None Remove="1020.bmp" />
+    <None Remove="1050.bmp" />
+    <None Remove="1080.bmp" />
+    <None Remove="1110.bmp" />
+    <None Remove="1140.bmp" />
+    <None Remove="1170.bmp" />
+    <None Remove="120.bmp" />
+    <None Remove="1200.bmp" />
+    <None Remove="1230.bmp" />
+    <None Remove="1260.bmp" />
+    <None Remove="1290.bmp" />
+    <None Remove="1320.bmp" />
+    <None Remove="1350.bmp" />
+    <None Remove="1380.bmp" />
+    <None Remove="1410.bmp" />
+    <None Remove="1440.bmp" />
+    <None Remove="1470.bmp" />
+    <None Remove="150.bmp" />
+    <None Remove="1500.bmp" />
+    <None Remove="1530.bmp" />
+    <None Remove="1560.bmp" />
+    <None Remove="1590.bmp" />
+    <None Remove="1620.bmp" />
+    <None Remove="1650.bmp" />
+    <None Remove="1680.bmp" />
+    <None Remove="1710.bmp" />
+    <None Remove="1740.bmp" />
+    <None Remove="1770.bmp" />
+    <None Remove="180.bmp" />
+    <None Remove="1800.bmp" />
+    <None Remove="1830.bmp" />
+    <None Remove="1860.bmp" />
+    <None Remove="1890.bmp" />
+    <None Remove="1920.bmp" />
+    <None Remove="1950.bmp" />
+    <None Remove="1980.bmp" />
+    <None Remove="2010.bmp" />
+    <None Remove="2040.bmp" />
+    <None Remove="2070.bmp" />
+    <None Remove="210.bmp" />
+    <None Remove="2100.bmp" />
+    <None Remove="2130.bmp" />
+    <None Remove="2160.bmp" />
+    <None Remove="2190.bmp" />
+    <None Remove="2220.bmp" />
+    <None Remove="2250.bmp" />
+    <None Remove="2280.bmp" />
+    <None Remove="2310.bmp" />
+    <None Remove="2340.bmp" />
+    <None Remove="2370.bmp" />
+    <None Remove="240.bmp" />
+    <None Remove="2400.bmp" />
+    <None Remove="2430.bmp" />
+    <None Remove="2460.bmp" />
+    <None Remove="2490.bmp" />
+    <None Remove="2520.bmp" />
+    <None Remove="2550.bmp" />
+    <None Remove="2580.bmp" />
+    <None Remove="2610.bmp" />
+    <None Remove="2640.bmp" />
+    <None Remove="270.bmp" />
+    <None Remove="30.bmp" />
+    <None Remove="300.bmp" />
+    <None Remove="330.bmp" />
+    <None Remove="360.bmp" />
+    <None Remove="390.bmp" />
+    <None Remove="420.bmp" />
+    <None Remove="450.bmp" />
+    <None Remove="480.bmp" />
+    <None Remove="510.bmp" />
+    <None Remove="540.bmp" />
+    <None Remove="570.bmp" />
+    <None Remove="60.bmp" />
+    <None Remove="600.bmp" />
+    <None Remove="630.bmp" />
+    <None Remove="660.bmp" />
+    <None Remove="690.bmp" />
+    <None Remove="720.bmp" />
+    <None Remove="750.bmp" />
+    <None Remove="780.bmp" />
+    <None Remove="810.bmp" />
+    <None Remove="840.bmp" />
+    <None Remove="870.bmp" />
+    <None Remove="90.bmp" />
+    <None Remove="900.bmp" />
+    <None Remove="930.bmp" />
+    <None Remove="960.bmp" />
+    <None Remove="990.bmp" />
+    <None Remove="MP4ToBMP.py" />
+    <None Remove="run-2022-11-14_05-48-22-PM.mp4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\MeniscusTracking\MeniscusTracking\MeniscusTracking.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Reference Include="MeniscusTracking">
-      <HintPath>..\..\MeniscusTracking\MeniscusTracking\bin\x64\Debug\MeniscusTracking.dll</HintPath>
+      <HintPath>..\..\MeniscusTracking\MeniscusTracking\bin\Debug\MeniscusTracking.dll</HintPath>
     </Reference>
   </ItemGroup>
 

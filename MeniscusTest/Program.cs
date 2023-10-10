@@ -1,4 +1,4 @@
-﻿using System;
+﻿using System; 
 using MeniscusTracking;
 using static System.Net.Mime.MediaTypeNames;
 
@@ -13,13 +13,11 @@ namespace MyApp // Note: actual namespace depends on the project name.
             var c = new Class1();
             var path = Environment.GetEnvironmentVariable( "PATH" );
             path = 
-                // "C:\\Users\\rosengau\\source\\repos\\MeniscusTest\\MeniscusTest\\bin\\x64\\Debug\\net6.0;" +
-                "C:\\Users\\rosengau\\source\\repos\\MeniscusTracking\\MeniscusTracking\\bin\\x64\\Debug;" + path;
+                // "C:\\Users\\S2\\source\\repos\\MeniscusTest\\MeniscusTest\\bin\\x64\\Debug\\net6.0;" +
+                "C:\\Users\\S2\\source\\repos\\MeniscusTracking\\MeniscusTracking\\bin\\x64\\Debug;" + path;
             Environment.SetEnvironmentVariable( "PATH", path);
             Console.WriteLine( Environment.GetEnvironmentVariable( "PATH" ) );
-            var ret = c.MeniscusTop( args[0], start, end );
-
-            Console.WriteLine( ret );
+            Console.WriteLine(c.MeniscusFrom2Img());
         }
     }
 }
